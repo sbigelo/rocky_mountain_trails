@@ -1,0 +1,32 @@
+Setting up watches. Beware: since -r was given, this may take a while!
+Watches established.
+{"watched_filename": "/home/sbigelow/temporary/", "event_names": "CREATE,ISDIR", "event_filename": "rocky_mountain_trails"}
+{"watched_filename": "/home/sbigelow/temporary/rocky_mountain_trails/", "event_names": "CREATE,ISDIR", "event_filename": ".git"}
+{"watched_filename": "/home/sbigelow/temporary/rocky_mountain_trails/", "event_names": "CREATE", "event_filename": "LICENSE"}
+{"watched_filename": "/home/sbigelow/temporary/rocky_mountain_trails/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "LICENSE"}
+{"watched_filename": "/home/sbigelow/temporary/rocky_mountain_trails/", "event_names": "CREATE", "event_filename": "README.md"}
+{"watched_filename": "/home/sbigelow/temporary/rocky_mountain_trails/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "README.md"}
+{"watched_filename": "/home/sbigelow/temporary/", "event_names": "CREATE,ISDIR", "event_filename": "hiking_trails"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "Gemfile"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CREATE,ISDIR", "event_filename": "lib"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/lib/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "hiking_trails.rb"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/lib/", "event_names": "CREATE,ISDIR", "event_filename": "hiking_trails"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/lib/hiking_trails/", "event_names": "CREATE", "event_filename": "version.rb"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/lib/hiking_trails/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "version.rb"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CREATE", "event_filename": "hiking_trails.gemspec"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "hiking_trails.gemspec"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CREATE", "event_filename": "Rakefile"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "Rakefile"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CREATE", "event_filename": "README.md"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "README.md"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CREATE,ISDIR", "event_filename": "bin"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/bin/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "console"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/bin/", "event_names": "CREATE", "event_filename": "setup"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/bin/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "setup"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CREATE", "event_filename": ".gitignore"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": ".gitignore"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CREATE", "event_filename": "LICENSE.txt"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "LICENSE.txt"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CREATE", "event_filename": "CODE_OF_CONDUCT.md"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "CODE_OF_CONDUCT.md"}
+{"watched_filename": "/home/sbigelow/temporary/hiking_trails/", "event_names": "CREATE,ISDIR", "event_filename": ".git"}
